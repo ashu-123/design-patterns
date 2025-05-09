@@ -1,3 +1,5 @@
+package strategy;
+
 class AnimalPark {
     public static void main(String[] args) {
         Animal sparky = new Dog();

@@ -1,3 +1,5 @@
+package strategy;
+
 class Animal {
 
     public Flys flyingType;
