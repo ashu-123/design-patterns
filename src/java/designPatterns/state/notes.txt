@@ -1,0 +1,8 @@
+Behavioral design pattern
+
+Problems solved:-
+1) massive if else or switch statements resolved by delegating responsibilities to current state using composition
+2) Violation of Open/Closed principle
+3) Reduced flexibility cos of tight coupling
+4) Violation of Single Responsibility Principle
+5) Difficulty in representing state transitions
