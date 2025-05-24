@@ -1,0 +1,5 @@
+Behavioral design pattern
+
+- The client passes a request to a chain of handlers who have responsibilities assigned.
+- The handlers decide if to process the request or pass forward in the chain until the request is answered or it falls of the chain.
+-
