@@ -1,0 +1,9 @@
+Structural design pattern
+
+Problems solved:-
+1. Security/Access control :- Prevents the client to directly access the methods/fields of the class.
+2. Remote server communication overhead :- Communicating with a resource located across network can be an overhead.
+Using a proxy in this case can reduce it by delegating the network communication, serialization/deserialization to it.
+3. Violation of Open/Closed principle:- By extending the features of the object, the proxy can help.
+4. Violation of Single responsibility principle :- Implementing cross-cutting concerns like logging/monitoring directly
+in the class can violate SR principle. Implement a proxy to take out cross cutting concerns.
