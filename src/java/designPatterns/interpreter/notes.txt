@@ -1,0 +1,6 @@
+Behavioral Design pattern
+
+- Used to evaluate/parse structured grammar or DSL/ rules engine.
+- e.g, a AND b / a OR b
+- easy to extend for new rules
+- clear representation through objects
