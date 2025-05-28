@@ -1,0 +1,9 @@
+Behavioral Design pattern
+
+- Helps in reducing the complexity by removing tight coupling between directly interacting objects(colleagues)
+by introducing a mediator in between them
+- Centralizes logic for interaction between objects & reduces direct dependencies among interacting classes
+
+Should not be used in the following scenarios:-
+- when there isn't too much or too complex interactions between objects
+- when the mediator itself becomes a complex class / 'A God Object'
