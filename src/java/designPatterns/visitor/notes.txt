@@ -1,0 +1,10 @@
+Behavioral design pattern
+
+- When we have a set of objects and want to separate out operations on the objects from the object structure
+
+Problems solved by Visitor design pattern :-
+- Violation of open/closed principle
+- when you need to perform multiple unrelated operations on a set of objects without changing the classes
+
+
+✔️Promotes separation of concerns

@@ -1,0 +1,8 @@
+Behavioral design pattern
+
+- Memento pattern is used for undo/redo, checkpoints, state restoration
+- encapsulates state changes cleanly and keeps the object internal logic private.
+
+Problems solved by memento design pattern :-
+- solves the problem of restoring an object's state without exposing or tightly coupling with the internal
+structure of the object.
