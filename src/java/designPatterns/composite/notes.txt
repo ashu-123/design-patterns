@@ -1,0 +1,4 @@
+Structural Design Pattern
+
+- Lets us compose objects as a tree structure and allows us to traverse or work with this tree as if it were a object
+- Example : File System -- a folder can contain files as well as other folders
