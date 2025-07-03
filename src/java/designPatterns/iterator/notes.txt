@@ -1,0 +1,3 @@
+Behavioral design pattern
+
+- Used to access an aggregate set of items iteratively
