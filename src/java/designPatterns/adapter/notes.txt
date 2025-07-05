@@ -1,0 +1,3 @@
+The Adapter pattern is
+ - Structural Design Pattern
+ - used when you want to adapt or wrap classes that have incompatible interfaces so that they can work together or be used polymorphically.
