@@ -1,0 +1,4 @@
+- behavioural design pattern
+- encapsulates request as an object
+- decouples sender/receiver
+- Example use cases - undo/redo tasks
